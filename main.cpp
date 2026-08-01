@@ -1,7 +1,8 @@
-#include<iostream>
+// Modified by Shaila for the group project
+#include <iostream>
 using namespace std;
 
-int main()
-{
-    printf("Hello World");
+int main() {
+    cout << "Hello World!";
+    return 0;
 }
